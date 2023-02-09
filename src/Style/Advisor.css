@@ -1,0 +1,9 @@
+.advisor-heading {
+  font-size: 4rem;
+  margin: 1rem 1rem;
+  font-family: emoji;
+  font-weight: 600;
+}
+.btn-advisor {
+  color: blue !important;
+}
